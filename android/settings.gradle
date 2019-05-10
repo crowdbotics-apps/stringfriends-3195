@@ -1,0 +1,3 @@
+rootProject.name = 'stringfriends_3195'
+
+include ':app'
